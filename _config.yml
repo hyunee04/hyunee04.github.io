@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "김가현"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/7f285c2e255c397b3b5f9f30e1b58520.png"
   bio              : "행복한 컴퓨터교육 설계자"
   location         : "대한민국, 서울"
   email            : "gahyeon0000@gmail.com"
