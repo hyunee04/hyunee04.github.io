@@ -1,8 +1,8 @@
 # main links
 main:
-  - title: "개념"
+  - title: "나의 이야기"
     url: /categories/
-  - title: "연도"
+  - title: "나의 글"
     url: /posts/ 
   - title: "소개"
     url: /about/ 
