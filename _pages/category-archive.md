@@ -1,5 +1,5 @@
 --- 
-title: 춤 제주 음식 지식 
+title: 나의 이야기 
 layout: categories 
 permalink: /categories/ 
 author_profile: true 
