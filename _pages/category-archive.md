@@ -1,5 +1,5 @@
 --- 
-title: "지식 춤 제주 음식" 
+title: "춤" 
 layout: categories 
 permalink: /categories/ 
 author_profile: true 
